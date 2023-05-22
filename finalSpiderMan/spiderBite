@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="stylesheet" href="spiderStyles.css">
+        <title>
+           An Amazing Fantasy
+        </title>
+    </head>
+
+    <body>
+
+        <p id="intro">
+            ACCIDENTALLY ABSORBING A FANTASTIC AMOUNT OF RADIOACTIVITY, THE DYING INSECT, IN SUDDEN SHOCK, BITES THE NEAREST LIVING THING, AT THE SPLIT SECOND BEFORE LIFE EBBS FROM ITS RADIOACTIVE BODY!
+        </p>
+        
+        <img id="spiderImage" src="spiderImages/spiderBiteClear.png" alt="Five silhouettes stand against a grey background. The central figure wears glaring white classes">
+
+        <a href="spiderMan.html">
+            <p id="nextPage">
+                Turn the Page
+            </p> 
+        </a>
+    </body>
+    
+</html>
