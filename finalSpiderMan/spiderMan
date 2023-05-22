@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="stylesheet" href="spiderStyles.css">
+        <title>
+           An Amazing Fantasy
+        </title>
+    </head>
+
+    <body>
+
+        <p id="intro">
+            AND SO A LEGEND IS BORN AND A NEW NAME IS ADDED TO THE ROSTER OF THOSE WHO MAKE THE WORLD OF FANTASY THE MOST EXCITING REALM OF ALL!
+        </p>
+
+        <img id="spiderImage" src="spiderImages/spiderManClear.png" alt="Spider-Man's keeps a watchful eye over New York">
+
+        <p class="citation">
+            "Brooklyn cityscape png silhouette border" is marked with CC0 1.0.
+        </p>
+
+        <a href="spiderIntro.html">
+            <p id="nextPage">
+                THE END
+            </p> 
+        </a>
+    </body>
+    
+</html>
